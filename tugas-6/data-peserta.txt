@@ -3,3 +3,4 @@ Data Peserta Sanbercode Bootcamp Laravel Web Dev
 2. Email: alyshaandshafa0593@gmail.com
 3. Akun Gitlab/Github : https://github.com/shennatsu 
 4. Akun Telegram: @shennatsu
+5. Hobby : Tidur
